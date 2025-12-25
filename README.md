@@ -2,12 +2,16 @@
 
 A compact and flexible **wearable microstrip patch antenna** designed for **body-centric wireless communication** applications. The antenna operates at **1.95 GHz** and uses a **textile substrate** with **Artificial Magnetic Conductor (AMC) backing** to improve gain, reduce back radiation, and minimize human body effects. The design is simulated, optimized, and experimentally validated.
 
+---
+
 ## 🛠️ Tools & Software Used
 
 * **CST Studio Suite** – Antenna modeling and EM simulation
 * **Vector Network Analyzer (VNA)** – Experimental validation
 * **Copper tape / conductive fabric** – Radiating patch
 * **Foam + AMC layer** – Backing structure
+
+---
 
 ## 🧠 Working Principle
 
@@ -20,6 +24,8 @@ A compact and flexible **wearable microstrip patch antenna** designed for **body
   * Gain & radiation patterns (2D & 3D)
 * Fabricated antenna results closely match simulation outputs.
 
+---
+
 ## 📊 Performance Summary
 
 * **Resonant Frequency:** 1.95 GHz
@@ -27,10 +33,14 @@ A compact and flexible **wearable microstrip patch antenna** designed for **body
 * **Peak Gain:** ~7.6 dBi (with AMC)
 * **Improved performance** compared to antenna without AMC backing
 
+---
+
 ## 📁 Files Included
 
 * `Wearable_Antenna.cst` – CST Simulation file
 * `Results.ppt` – Fabricated Antenna and CST Simulation results
+
+---
 
 ## 💡 Applications
 
